@@ -39,15 +39,13 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 
 ### 2. Screen Archetypes
 
-- [ ] Workout Log Screen
+- [ ] Home Screen
 * Users can enter new workout details
 * Users can view a summary of their week
+* Users can configure app settings
 - [ ] History Screen
-* Users can scroll through past workouts
+* Users can scroll through past workouts and view details
 * Users can toggle between calendar and list view
-- [ ] Settings Screen
-* Users can configure app settings, notifications, and profile
-
 
 ### 3. Navigation
 
@@ -55,24 +53,18 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 
 * Home / Log Workout
 * Workout History
-* Settings
 
 **Flow Navigation** (Screen to Screen)
 
 - [ ] Home Screen
-* Opens Log Workout or History via tabs
+* Opens Log Workout modal or settings screen
 
-- [ ] Settings Screen
-* Accessible from Home for setting modifications
+- [ ] History Screen
+* Opens workout details modal, and List view
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
+<img src="MuscleMemory-wireframe.jpg">
 
 ## Schema 
 
