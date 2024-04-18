@@ -6,6 +6,8 @@
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Sprint Planning](#Sprint-Planning)
+6. [Unit 8](#Unit-8)
 
 ## Overview
 
@@ -79,3 +81,41 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Sprint Planning
+
+### Main Features
+1. Log Exercise Data: Name, Date, Time, Duration, Distance, Weight, Sets, Rep
+- Add, Edit, Delete
+2. Calendar View
+- Days are marked, able to click on dates to view recorded workouts
+3. List View
+- Workouts can be viewed in descending order 
+4. Local data persistence
+
+### Sprint I (April 16-19)
+- Set up GitHub
+- Initialize XCode Project
+- create Home screen with Log workout screen
+- create calendar view for History Page
+- functional tab navigation
+
+
+### Sprint II (April 20-23)
+- local data persistence
+- networking feature for motivational daily quotes
+- List view for History page
+- settings page in Home screen
+
+### Sprint III (April 24-29)
+- Make sure all features are implemented and functional
+- update UI and finalize app icon and color theme/ branding
+
+
+## Unit 8
+### Progress
+- Brainstormed & finalized app idea
+- Created GitHub and initialized Xcode project
+- Made app icon & color story
+
+<img src="MuscleMemory-logo.png">
