@@ -119,3 +119,6 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 - Made app icon & color story
 
 <img src="MuscleMemory-logo.png">
+
+### Video Walkthrough
+[Guide](https://youtube.com/shorts/oIleeFb5uAI?feature=share)
