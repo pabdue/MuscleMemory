@@ -13,6 +13,7 @@
 		082678D72BCF60BF0024D645 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 082678D52BCF60BF0024D645 /* Main.storyboard */; };
 		082678D92BCF60C00024D645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 082678D82BCF60C00024D645 /* Assets.xcassets */; };
 		082678DC2BCF60C00024D645 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 082678DA2BCF60C00024D645 /* LaunchScreen.storyboard */; };
+		08E7EC152BD7533B00169624 /* WorkoutComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E7EC142BD7533B00169624 /* WorkoutComposeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		082678D82BCF60C00024D645 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		082678DB2BCF60C00024D645 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		082678DD2BCF60C00024D645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08E7EC142BD7533B00169624 /* WorkoutComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutComposeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				082678CF2BCF60BF0024D645 /* AppDelegate.swift */,
+				08E7EC142BD7533B00169624 /* WorkoutComposeViewController.swift */,
 				082678D12BCF60BF0024D645 /* SceneDelegate.swift */,
 				082678D32BCF60BF0024D645 /* ViewController.swift */,
 				082678D52BCF60BF0024D645 /* Main.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				082678D42BCF60BF0024D645 /* ViewController.swift in Sources */,
+				08E7EC152BD7533B00169624 /* WorkoutComposeViewController.swift in Sources */,
 				082678D02BCF60BF0024D645 /* AppDelegate.swift in Sources */,
 				082678D22BCF60BF0024D645 /* SceneDelegate.swift in Sources */,
 			);

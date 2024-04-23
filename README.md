@@ -78,9 +78,7 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Home Screen: They Said So Quotes API will provide daily motivational quotes
 
 ## Sprint Planning
 
@@ -105,7 +103,6 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 - local data persistence
 - networking feature for motivational daily quotes
 - List view for History page
-- settings page in Home screen
 
 ### Sprint III (April 24-29)
 - Make sure all features are implemented and functional
@@ -122,3 +119,12 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 
 ### Video Walkthrough
 [Guide](https://youtube.com/shorts/oIleeFb5uAI?feature=share)
+
+## Unit 9
+### Progress
+- Created Home Screen
+- Created Add Workout modal
+- Established tab navigation
+
+### Video Walkthrough
+[Guide](https://youtube.com/shorts/xIrR5KJ1KaU?feature=share)
