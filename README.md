@@ -8,6 +8,7 @@
 4. [Schema](#Schema)
 5. [Sprint Planning](#Sprint-Planning)
 6. [Unit 8](#Unit-8)
+7. [Unit 9](#Unit-9)
 
 ## Overview
 
