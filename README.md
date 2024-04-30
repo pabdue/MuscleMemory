@@ -9,6 +9,7 @@
 5. [Sprint Planning](#Sprint-Planning)
 6. [Unit 8](#Unit-8)
 7. [Unit 9](#Unit-9)
+8. [Unit 10](#Unit-10)
 
 ## Overview
 
@@ -129,3 +130,19 @@ MuscleMemory allows users to record their workouts, tracking exercises, weights 
 
 ### Video Walkthrough
 [Guide](https://youtube.com/shorts/xIrR5KJ1KaU?feature=share)
+
+## Unit 10
+### Progress
+- Integrated They Said So Quotes API for daily motiviational quotes on home screen
+- Added ability to edit and delete data entries
+- added date to home screen
+- established data persistence
+- calendar view for workout data
+
+### Notes
+- I believe I have accomplished my MVP version of my app
+- It was very fun to develop and learned a lot from mistakes and bugs
+- I would love to continue this project beyond this course
+
+### Final Video Walkthrough
+[Guide](https://youtube.com/shorts/E7m_rcp_Nd0)

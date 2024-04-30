@@ -7,35 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CB602B9929247359006C6727 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB602B9829247359006C6727 /* AppDelegate.swift */; };
-		CB602B9B29247359006C6727 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB602B9A29247359006C6727 /* SceneDelegate.swift */; };
-		CB602B9D29247359006C6727 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB602B9C29247359006C6727 /* TaskListViewController.swift */; };
-		CB602BA029247359006C6727 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB602B9E29247359006C6727 /* Main.storyboard */; };
-		CB602BA22924735C006C6727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB602BA12924735C006C6727 /* Assets.xcassets */; };
-		CB602BA52924735C006C6727 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB602BA32924735C006C6727 /* LaunchScreen.storyboard */; };
-		CB602BAD292476F4006C6727 /* TaskCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB602BAC292476F4006C6727 /* TaskCell.swift */; };
-		CB9D9ED1292483BC00F8F51B /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9D9ED0292483BC00F8F51B /* Task.swift */; };
-		ED7EC37629F0EFD000146345 /* TaskComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED7EC37529F0EFD000146345 /* TaskComposeViewController.swift */; };
-		EDE386D029F7892D007E714F /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE386CF29F7892D007E714F /* CalendarViewController.swift */; };
+		082678D02BCF60BF0024D645 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082678CF2BCF60BF0024D645 /* AppDelegate.swift */; };
+		082678D22BCF60BF0024D645 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082678D12BCF60BF0024D645 /* SceneDelegate.swift */; };
+		082678D42BCF60BF0024D645 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082678D32BCF60BF0024D645 /* ViewController.swift */; };
+		082678D72BCF60BF0024D645 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 082678D52BCF60BF0024D645 /* Main.storyboard */; };
+		082678D92BCF60C00024D645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 082678D82BCF60C00024D645 /* Assets.xcassets */; };
+		082678DC2BCF60C00024D645 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 082678DA2BCF60C00024D645 /* LaunchScreen.storyboard */; };
+		08E7EC152BD7533B00169624 /* WorkoutComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E7EC142BD7533B00169624 /* WorkoutComposeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CB602B9529247359006C6727 /* MuscleMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MuscleMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CB602B9829247359006C6727 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CB602B9A29247359006C6727 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		CB602B9C29247359006C6727 /* TaskListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListViewController.swift; sourceTree = "<group>"; };
-		CB602B9F29247359006C6727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CB602BA12924735C006C6727 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CB602BA42924735C006C6727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CB602BA62924735C006C6727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB602BAC292476F4006C6727 /* TaskCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskCell.swift; sourceTree = "<group>"; };
-		CB9D9ED0292483BC00F8F51B /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
-		ED7EC37529F0EFD000146345 /* TaskComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TaskComposeViewController.swift; path = MuscleMemory/TaskComposeViewController.swift; sourceTree = SOURCE_ROOT; };
-		EDE386CF29F7892D007E714F /* CalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
+		082678CC2BCF60BF0024D645 /* MuscleMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MuscleMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		082678CF2BCF60BF0024D645 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		082678D12BCF60BF0024D645 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		082678D32BCF60BF0024D645 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		082678D62BCF60BF0024D645 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		082678D82BCF60C00024D645 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		082678DB2BCF60C00024D645 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		082678DD2BCF60C00024D645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08E7EC142BD7533B00169624 /* WorkoutComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutComposeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CB602B9229247359006C6727 /* Frameworks */ = {
+		082678C92BCF60BF0024D645 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -45,36 +39,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CB602B8C29247359006C6727 = {
+		082678C32BCF60BF0024D645 = {
 			isa = PBXGroup;
 			children = (
-				CB602B9729247359006C6727 /* MuscleMemory */,
-				CB602B9629247359006C6727 /* Products */,
+				082678CE2BCF60BF0024D645 /* MuscleMemory */,
+				082678CD2BCF60BF0024D645 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CB602B9629247359006C6727 /* Products */ = {
+		082678CD2BCF60BF0024D645 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CB602B9529247359006C6727 /* MuscleMemory.app */,
+				082678CC2BCF60BF0024D645 /* MuscleMemory.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CB602B9729247359006C6727 /* MuscleMemory */ = {
+		082678CE2BCF60BF0024D645 /* MuscleMemory */ = {
 			isa = PBXGroup;
 			children = (
-				CB602B9C29247359006C6727 /* TaskListViewController.swift */,
-				CB602BAC292476F4006C6727 /* TaskCell.swift */,
-				ED7EC37529F0EFD000146345 /* TaskComposeViewController.swift */,
-				CB9D9ED0292483BC00F8F51B /* Task.swift */,
-				EDE386CF29F7892D007E714F /* CalendarViewController.swift */,
-				CB602B9E29247359006C6727 /* Main.storyboard */,
-				CB602BA32924735C006C6727 /* LaunchScreen.storyboard */,
-				CB602B9829247359006C6727 /* AppDelegate.swift */,
-				CB602B9A29247359006C6727 /* SceneDelegate.swift */,
-				CB602BA12924735C006C6727 /* Assets.xcassets */,
-				CB602BA62924735C006C6727 /* Info.plist */,
+				082678CF2BCF60BF0024D645 /* AppDelegate.swift */,
+				08E7EC142BD7533B00169624 /* WorkoutComposeViewController.swift */,
+				082678D12BCF60BF0024D645 /* SceneDelegate.swift */,
+				082678D32BCF60BF0024D645 /* ViewController.swift */,
+				082678D52BCF60BF0024D645 /* Main.storyboard */,
+				082678D82BCF60C00024D645 /* Assets.xcassets */,
+				082678DA2BCF60C00024D645 /* LaunchScreen.storyboard */,
+				082678DD2BCF60C00024D645 /* Info.plist */,
 			);
 			path = MuscleMemory;
 			sourceTree = "<group>";
@@ -82,39 +73,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CB602B9429247359006C6727 /* MuscleMemory */ = {
+		082678CB2BCF60BF0024D645 /* MuscleMemory */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB602BA92924735C006C6727 /* Build configuration list for PBXNativeTarget "MuscleMemory" */;
+			buildConfigurationList = 082678E02BCF60C00024D645 /* Build configuration list for PBXNativeTarget "MuscleMemory" */;
 			buildPhases = (
-				CB602B9129247359006C6727 /* Sources */,
-				CB602B9229247359006C6727 /* Frameworks */,
-				CB602B9329247359006C6727 /* Resources */,
+				082678C82BCF60BF0024D645 /* Sources */,
+				082678C92BCF60BF0024D645 /* Frameworks */,
+				082678CA2BCF60BF0024D645 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = MuscleMemory;
-			productName = "lab-task-squirrel";
-			productReference = CB602B9529247359006C6727 /* MuscleMemory.app */;
+			productName = MuscleMemory;
+			productReference = 082678CC2BCF60BF0024D645 /* MuscleMemory.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CB602B8D29247359006C6727 /* Project object */ = {
+		082678C42BCF60BF0024D645 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1400;
-				LastUpgradeCheck = 1400;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					CB602B9429247359006C6727 = {
-						CreatedOnToolsVersion = 14.0.1;
+					082678CB2BCF60BF0024D645 = {
+						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = CB602B9029247359006C6727 /* Build configuration list for PBXProject "MuscleMemory" */;
+			buildConfigurationList = 082678C72BCF60BF0024D645 /* Build configuration list for PBXProject "MuscleMemory" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,59 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = CB602B8C29247359006C6727;
-			productRefGroup = CB602B9629247359006C6727 /* Products */;
+			mainGroup = 082678C32BCF60BF0024D645;
+			productRefGroup = 082678CD2BCF60BF0024D645 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CB602B9429247359006C6727 /* MuscleMemory */,
+				082678CB2BCF60BF0024D645 /* MuscleMemory */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CB602B9329247359006C6727 /* Resources */ = {
+		082678CA2BCF60BF0024D645 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB602BA52924735C006C6727 /* LaunchScreen.storyboard in Resources */,
-				CB602BA22924735C006C6727 /* Assets.xcassets in Resources */,
-				CB602BA029247359006C6727 /* Main.storyboard in Resources */,
+				082678DC2BCF60C00024D645 /* LaunchScreen.storyboard in Resources */,
+				082678D92BCF60C00024D645 /* Assets.xcassets in Resources */,
+				082678D72BCF60BF0024D645 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CB602B9129247359006C6727 /* Sources */ = {
+		082678C82BCF60BF0024D645 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDE386D029F7892D007E714F /* CalendarViewController.swift in Sources */,
-				CB602BAD292476F4006C6727 /* TaskCell.swift in Sources */,
-				ED7EC37629F0EFD000146345 /* TaskComposeViewController.swift in Sources */,
-				CB602B9D29247359006C6727 /* TaskListViewController.swift in Sources */,
-				CB602B9929247359006C6727 /* AppDelegate.swift in Sources */,
-				CB602B9B29247359006C6727 /* SceneDelegate.swift in Sources */,
-				CB9D9ED1292483BC00F8F51B /* Task.swift in Sources */,
+				082678D42BCF60BF0024D645 /* ViewController.swift in Sources */,
+				08E7EC152BD7533B00169624 /* WorkoutComposeViewController.swift in Sources */,
+				082678D02BCF60BF0024D645 /* AppDelegate.swift in Sources */,
+				082678D22BCF60BF0024D645 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		CB602B9E29247359006C6727 /* Main.storyboard */ = {
+		082678D52BCF60BF0024D645 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CB602B9F29247359006C6727 /* Base */,
+				082678D62BCF60BF0024D645 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		CB602BA32924735C006C6727 /* LaunchScreen.storyboard */ = {
+		082678DA2BCF60C00024D645 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CB602BA42924735C006C6727 /* Base */,
+				082678DB2BCF60C00024D645 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -182,10 +170,11 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		CB602BA72924735C006C6727 /* Debug */ = {
+		082678DE2BCF60C00024D645 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -218,7 +207,8 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -232,20 +222,22 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		CB602BA82924735C006C6727 /* Release */ = {
+		082678DF2BCF60C00024D645 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -278,7 +270,8 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -286,27 +279,25 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		CB602BAA2924735C006C6727 /* Debug */ = {
+		082678E12BCF60C00024D645 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MA6H73S726;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MuscleMemory/Info.plist;
-				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo Library access is required to add a photo to complete a task.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -317,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.codepath.ios101-project7-task";
+				PRODUCT_BUNDLE_IDENTIFIER = PabloDuenas.MuscleMemory;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -325,17 +316,15 @@
 			};
 			name = Debug;
 		};
-		CB602BAB2924735C006C6727 /* Release */ = {
+		082678E22BCF60C00024D645 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MA6H73S726;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MuscleMemory/Info.plist;
-				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo Library access is required to add a photo to complete a task.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -346,7 +335,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.codepath.ios101-project7-task";
+				PRODUCT_BUNDLE_IDENTIFIER = PabloDuenas.MuscleMemory;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -357,25 +346,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CB602B9029247359006C6727 /* Build configuration list for PBXProject "MuscleMemory" */ = {
+		082678C72BCF60BF0024D645 /* Build configuration list for PBXProject "MuscleMemory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CB602BA72924735C006C6727 /* Debug */,
-				CB602BA82924735C006C6727 /* Release */,
+				082678DE2BCF60C00024D645 /* Debug */,
+				082678DF2BCF60C00024D645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CB602BA92924735C006C6727 /* Build configuration list for PBXNativeTarget "MuscleMemory" */ = {
+		082678E02BCF60C00024D645 /* Build configuration list for PBXNativeTarget "MuscleMemory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CB602BAA2924735C006C6727 /* Debug */,
-				CB602BAB2924735C006C6727 /* Release */,
+				082678E12BCF60C00024D645 /* Debug */,
+				082678E22BCF60C00024D645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CB602B8D29247359006C6727 /* Project object */;
+	rootObject = 082678C42BCF60BF0024D645 /* Project object */;
 }
